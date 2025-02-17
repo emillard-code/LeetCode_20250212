@@ -13,7 +13,7 @@ public class LeetCodeAttempt {
     }
 
     // This method returns the maximum value that fulfills the challenge specifications.
-    public static int maxSumOfAPairWithEqualSumOfDigits(int nums[]) {
+    public static int maxSumOfAPairWithEqualSumOfDigits(int[] nums) {
 
         // The default value is -1 if no match is found.
         int max = -1;
